@@ -4948,6 +4948,10 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .wrapper_ef3116 {
   border-radius: var(--popout-radius);
 }
 
+.modalContentInner_e44912 {
+  background-color: transparent;
+}
+
 .contentHeader_e9e3ed {
   background-color: var(--popout-color);
   border-bottom: none;
@@ -5001,6 +5005,10 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .wrapper_ef3116 {
   min-width: 460px;
   max-width: 716px;
   margin: 0 auto;
+}
+
+.sidebar__409aa {
+  background-color: transparent;
 }
 
 .fixedContent__409aa::after {
