@@ -16,3 +16,7 @@
         border-radius: calc(var(--card-radius-big) / 1.75);
     }
 }
+
+#{ $spoilerMarkdownContent } {
+    border-radius: calc(var(--media-radius));
+}

@@ -329,6 +329,8 @@
 }
 
 #{ $messageCozy } {
+	padding-inline-end: var(--message-padding-side) !important;
+
 	&#{ $messageGroupStart } {
 		margin-block-end: 0;
 
