@@ -6435,6 +6435,10 @@ body,
   background-color: transparent;
 }
 
+.modalContentInner_e44912 {
+  background-color: transparent;
+}
+
 .content_e9e3ed,
 .contentHeader_e9e3ed {
   background-color: transparent;
@@ -6476,6 +6480,10 @@ body,
 }
 
 /* SETTINGS SIDEBAR V2 */
+.sidebar__409aa {
+  background-color: transparent;
+}
+
 .fixedContent__409aa:after {
   display: none;
 }
