@@ -29,6 +29,10 @@
     //backdrop-filter: none;
 }
 
+#{ $settingsModalContentInner } {
+    background-color: transparent;
+}
+
 #{ $settingsV2Content },
 #{ $settingsV2ContentHeader } {
     background-color: transparent;

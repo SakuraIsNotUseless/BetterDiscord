@@ -34,6 +34,10 @@
 
 /* SETTINGS SIDEBAR V2 */
 
+#{ $settingsV2Sidebar } {
+    background-color: transparent;
+}
+
 #{ $settingsV2SidebarFixedContent } {
     &:after {
         display: none;
