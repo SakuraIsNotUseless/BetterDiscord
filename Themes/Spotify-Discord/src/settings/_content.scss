@@ -33,6 +33,10 @@
     border-radius: var(--popout-radius);
 }
 
+#{ $settingsModalContentInner } {
+    background-color: transparent;
+}
+
 #{ $settingsV2ContentHeader } {
     background-color: var(--popout-color);
     border-bottom: none;

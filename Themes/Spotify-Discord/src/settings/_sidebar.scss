@@ -57,6 +57,10 @@
     }
 }
 
+#{ $settingsV2Sidebar } {
+	background-color: transparent;
+}
+
 #{ $settingsV2SidebarFixedContent } {
     &::after {
         --background-base-lower: var(--popout-color);
